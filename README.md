@@ -1,1 +1,4 @@
-# DIO-Primeiro_Repositorio.Repositório do desafio Digital innovation One sobre GIT GITHUB
+# DIO-Primeiro_Repositorio.
+Repositório usado para aprendizagem de GIT/GITHUB.
+
+#Atividades e anotações para estudos.
